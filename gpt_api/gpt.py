@@ -97,7 +97,6 @@ def baichaung(question,n):
     return data()
 
 def qianwen(question,n):
-    # model_dic= random.choice([{"turbo":"sk-8921e0c4e0bb4b258650b9a548e916ab"},{"plus":"sk-8921e0c4e0bb4b258650b9a548e916ab"},{"max":"sk-8921e0c4e0bb4b258650b9a548e916ab"}])
     # #获取dict的key,value值
     # model_type=list(model_dic.keys())[0]
     # dashscope.api_key=list(model_dic.values())[0]
